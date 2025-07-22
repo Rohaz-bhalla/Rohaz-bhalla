@@ -115,7 +115,7 @@
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Rohaz-bhalla&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<!--![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Rohaz-bhalla&limit=5&theme=nightowl&combine_all_yearly_contributions=true)-->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohaz-bhalla&theme=github-dark&hide_border=true&area=true)
 
