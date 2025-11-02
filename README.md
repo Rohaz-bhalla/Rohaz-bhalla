@@ -87,7 +87,7 @@ alt="Hacktoberfest-contributions" />
 
 ## 🏆 Featured Projects & Contributions:
 
-<div align="center">
+<!--<div align="center">
 
 | 🚀 Repository | 🎯 Grade | 📝 Description |
 |---------------|----------|-----------------|
@@ -102,7 +102,7 @@ alt="Hacktoberfest-contributions" />
 | **[Rohaz-bhalla](https://github.com/Rohaz-bhalla/Rohaz-bhalla)** | 🅰️ | Personal GitHub Profile |
 | **[Soul-friend](https://github.com/Rohaz-bhalla/Soul-friend)** | 🅰️ | Mental Health Support Application |
 
-</div>
+</div>-->
 
 ### 🌟 Achievement Highlights:
 > ⭐ **500+** Stars across open source contributions
