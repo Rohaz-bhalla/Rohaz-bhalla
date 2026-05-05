@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a passionate **Full Stack Developer** with expertise in modern web technologies
-- 🌱 Currently exploring **GraphQL**, **Go**, and **Advanced React Patterns**
-- 👨‍💻 I love building scalable applications and contributing to open source projects
-- 🎯 Focused on creating impactful solutions with clean, maintainable code
+- 🔭 I'm a passionate **Hardware Engineer + Full Stack Developer** with expertise in modern web technologies and **System Verilog**
+- 🌱 Currently exploring **GraphQL**, **Go**, and **Design Verifications**
+- 👨‍💻 I love building projects based on **SoC** and scalable applications and contributing to open source projects
+- 🎯 Focused on creating impactful solutions with clean, maintainable code and design
 - 💡 Always eager to learn new technologies and share knowledge with the community
-- 🏆 Active contributor with **500+ stars** across repositories
 
 ---
 
