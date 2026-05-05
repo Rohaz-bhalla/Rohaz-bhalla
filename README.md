@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 - 🔭 I'm a passionate **Hardware Engineer + Full Stack Developer** with expertise in modern web technologies and **System Verilog**
-- 🌱 Currently exploring **GraphQL**, **Go**, and **Design Verifications**
-- 👨‍💻 I love building projects based on **SoC** and scalable applications and contributing to open source projects
-- 🎯 Focused on creating impactful solutions with clean, maintainable code and design
+- 🌱 Currently exploring **Computer Architecture**, **Go Lang**, and **Design Verification**
+- 👨‍💻 I love building projects based on **SoC** and scalable applications with **NextJS** and **LangChain** contributing to open source projects
+- 🎯 Focused on creating impactful solutions with clean, maintainable code and **design**
 - 💡 Always eager to learn new technologies and share knowledge with the community
 
 ---
